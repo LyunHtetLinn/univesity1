@@ -1,0 +1,23 @@
+div.bg-image: height: 500px;
+
+nav: *{
+
+ 
+  font-family:Time News Roman;
+} 
+nav ul li a{
+    text-decoration: none;
+    color:#fff;
+    font-weight: 1000;
+    text-transform: uppercase;
+    padding: 10px 15px;
+}
+nav ul li a:hover{
+    border-bottom: 2px solid cadetblue;}
+    li.custom-dropdown{
+    border: none;
+    background-color: #f9fbf5;
+    text-transform: lowercase;
+}
+button{text-transform: uppercase;}
+
